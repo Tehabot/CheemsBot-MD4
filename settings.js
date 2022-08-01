@@ -115,10 +115,10 @@ global.mess = {
     wait: 'تحت المعالجة...',
     linkm: 'أين الرابط?',
     error: 'خطأ!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    endLimit: 'الحد اليومي الخاص بك قد انتهى، سيتم إعادة تعيين الحد كل 12 ساعة',
+    ban: 'لقد تم منعك من قبل المالك، إذا كنت تريد أن تكون غير محظور، تحدث الي صاحب البوت.',
+    nsfw: 'لم يتم تنشيط ميزة nsfw، يرجى الاتصال بصاحب البوت للتنشيط',
+    banChat: 'عذرآ عزيزي البوت تم منعه من الاستخدام في هذه المجموعه يرجي التحدث الي صاحب البوت للاستخدام'
 }
     global.limitawal = {
     premium: "Infinity",
