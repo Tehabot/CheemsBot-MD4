@@ -1,8 +1,8 @@
 
 
-<h1 align="center">BOT AL SOLTAN<br></h1>
+<h1 align="center">BOT TEHA <br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/d97881d3cfbd65faa278f.jpg" alt="animated" width="540" height="280" />
+<img src="https://a.top4top.io/p_2410scvph1.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -40,9 +40,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://a.top4top.io/p_2410scvph1.jpg)
 
-<p align="left">
+<p align="left"https://a.top4top.io/p_2410scvph1.jpg
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
