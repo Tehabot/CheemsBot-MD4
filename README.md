@@ -1,6 +1,6 @@
 <h1 align="center">BOT TEHA<br></h1>
 <p align="center">
-<img src="https://a.top4top.io/p_2410scvph1.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/5e6a93916ba4b6696f942.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
