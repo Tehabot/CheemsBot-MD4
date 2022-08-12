@@ -38,7 +38,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Donate Me```
 
-- [`FamPay`](https://a.top4top.io/p_2410scvph1.jpg)
+- [`FamPay`](https://telegra.ph/file/50a78bed9f8e8c03027f5.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
