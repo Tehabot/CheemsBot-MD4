@@ -72,7 +72,7 @@ global.themeemoji = "😍" //ur theme emoji
 global.packname = "By TEHA" //ur sticker watermark packname
 global.author = "By @201210063867" //ur sticker watermark author
 
-//بوت theme media
+//Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
